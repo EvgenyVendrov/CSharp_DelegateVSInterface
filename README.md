@@ -2,4 +2,4 @@ In this pretty basic example - I'm testing how can I create a generic-container 
 
 
 The class hierarchy:
-![Alt text](C:\Users\evgen\Desktop?raw=true "UML of class hierarchy")
+![UMLFORGITHUB](https://user-images.githubusercontent.com/44900773/61459013-825dda00-a974-11e9-9bfb-79c714d6501f.png)
